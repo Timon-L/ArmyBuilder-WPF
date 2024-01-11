@@ -1,0 +1,144 @@
+Big Shoota,36,3,5,5,0,1,,"Battlewagon:Battlewagon,Big’ed Bossbunka:Big’ed Bossbunka,Blitza-bommer:Blitza-bommer,Boomdakka Snazzwagon:Boomdakka Snazzwagon,Boyz:Boy,Lootas:Spanners,Burna Boyz:Spanners,Deff Dread:Deff Dread,Lootas:Lootas,Stompa:Stompa,Trukk:Trukk",Rapid fire 2
+Big Shoota,36,3,4,5,0,1,,Warboss in Mega Armour:Warboss in Mega Armour,Rapid fire 2
+Kannon – frag,36,D6,5,5,0,1,,Battlewagon:Battlewagon,Blast
+Kannon – shell,36,1,5,9,-2,D6,,Battlewagon:Battlewagon,
+Killkannon,24,D6+3,5,9,-2,2,,Battlewagon:Battlewagon,
+Lobba,48,D6,5,5,0,1,,Battlewagon:Battlewagon,"Blast,Indirect fire"
+Zzapgun,36,1,5,2D6,-3,3,,Battlewagon:Battlewagon,Devastating wounds
+Deff rolla,Melee,6,3,9,-1,2,,Battlewagon:Battlewagon,
+Grabbin’ klaw,Melee,2,3,8,-2,2,,Battlewagon:Battlewagon,Extra attacks
+Tracks and wheels,Melee,6,4,8,0,1,,Battlewagon:Battlewagon,
+Wreckin’ ball,Melee,1,4,10,0,D6,,"Battlewagon:Battlewagon,Trukk:Trukk",Extra attacks
+Slugga,12,1,5,4,0,1,,"Beast Snagga Boyz:Beast Snagga Boy,Beastboss on Squigosaur:Beastboss on Squigosaur,Big Mek with Kustom Force Field:Big Mek with Kustom Force Field,Boss Zagstruk:Boss Zagstruk,Boyz:Boy,Boyz:Boss Nob,Kommandos:Boss Nob,Deffkoptas:Deffkoptas,Gretchin:Runtherd,Kommandos:Kommandos,Mad Dok Grotsnik:Mad Dok Grotsnik,Nob on Smasha Squig:Nob on Smasha Squig,Nobz:Nobz,Stormboyz:Stormboy,Warbikers:Warbiker,Warbikers:Boss Nob on Warbike,Zodgrod WortSnagga:Zodgrod WortSnagga,Beast Snagga Boyz:Beast Snagga Nob",Pistol
+Slugga,12,1,4,4,0,1,,"Boss Snikrot:Boss Snikrot,Kaptin Badrukk:Kaptin Badrukk",Pistol
+Thump gun,18,D3,5,6,0,2,,"Beast Snagga Boyz:Beast Snagga Boy,Beastboss on Squigosaur:Beastboss on Squigosaur,Mozrog Skragbad:Mozrog Skragbad",Blast
+Choppa,Melee,3,3,5,-1,1,,Beast Snagga Boyz:Beast Snagga Boy,
+Choppa,Melee,4,3,5,-1,1,,"Big Mek with Kustom Force Field:Big Mek with Kustom Force Field,Flash Gitz:Flash Gitz,Kaptin:Kaptin",
+Choppa,Melee,6,2,5,-1,1,,Kaptin Badrukk:Kaptin Badrukk,
+Choppa,Melee,3,3,4,-1,1,,"Stormboyz:Stormboy,Kommandos:Boss Nob,Warbikers:Warbiker,Boyz:Boy,Kommandos:Kommandos,Stormboyz:Boss Nob",
+Close combat weapon,Melee,2,3,5,0,1,,Beast Snagga Boyz:Beast Snagga Boy,
+Powersnappa,Melee,4,3,7,-1,2,,Beast Snagga Boyz:Beast Snagga Nob,
+Shoota,18,2,4,4,0,1,,Beastboss:Beastboss,Rapid fire 1
+Shoota,18,2,5,4,0,1,,Boyz:Boy,Rapid fire 1
+Beast Snagga klaw,Melee,4,3,10,-2,2,,Beastboss:Beastboss,"Anti-Monster 4+,Anti-Vehicle 4+"
+Beast Snagga klaw,Melee,3,4,9,-2,2,,Painboss:Painboss,"Anti-Monster 4+,Anti-Vehicle 4+"
+Beastchoppa,Melee,6,2,6,-1,2,,"Beastboss:Beastboss,Beastboss on Squigosaur:Beastboss on Squigosaur","Anti-Monster 4+,Anti-Vehicle 4+"
+Squigosaur’s jaws,Melee,3,4,7,-2,3,,Beastboss on Squigosaur:Beastboss on Squigosaur,"Devastating wounds,Extra Attacks"
+Kombi-weapon,24,1,5,4,0,1,,"Big Mek in Mega Armour:Big Mek in Mega Armour,Boyz:Boss Nob,Meganobz:Meganobz,Nobz:Nobz,Warboss:Warboss","Anti-Infantry 4+,Devastating Wounds,Rapid Fire 1"
+Kustom mega-blasta,24,3,5,9,-2,D6,,"Big Mek in Mega Armour:Big Mek in Mega Armour,Lootas:Spanners,Burna Boyz:Spanners,Deff Dread:Deff Dread,Deffkoptas:Deffkoptas,Morkanaut:Morkanaut",Hazardous
+Kustom shoota,18,4,5,4,0,1,,"Big Mek in Mega Armour:Big Mek in Mega Armour,Meganobz:Meganobz,Nob with Waaagh! Banner:Nob with Waaagh! Banner",Rapid fire 2
+Tellyportblasta,12,3,5,8,-1,3,,Big Mek in Mega Armour:Big Mek in Mega Armour,Blast
+Killsaw,Melee,3,4,12,-3,2,,Big Mek in Mega Armour:Big Mek in Mega Armour,
+Killsaw,Melee,2,4,12,-3,2,,Meganobz:Meganobz,
+Killsaw,Melee,1,4,12,-3,2,,Mek:Mek,
+Power klaw,Melee,4,3,9,-2,2,,"Big Mek in Mega Armour:Big Mek in Mega Armour,Mad Dok Grotsnik:Mad Dok Grotsnik",Sustained Hits 1
+Power klaw,Melee,3,4,9,-2,2,,"Boyz:Boss Nob,Meganobz:Meganobz,Nobz:Nobz,Painboy:Painboy,Boss Nob on Warbike:Boss Nob on Warbike,Kommandos:Boss Nob",
+Power klaw,Melee,4,3,10,-2,2,,Warboss:Warboss,
+Shokk attack gun,60,D6+1,5,9,-4,D6,,Big Mek with Shokk Attack Gun:Big Mek with Shokk Attack Gun,"Blast,Heavy"
+Close combat weapon,Melee,4,3,5,0,1,,Big Mek with Shokk Attack Gun:Big Mek with Shokk Attack Gun,
+Close combat weapon,Melee,2,3,4,0,1,,"Boyz:Boy,Boyz:Boss Nob,Tankbustas:Boss Nob,Tankbustas:Tankbusta",
+Close combat weapon,Melee,3,3,4,0,1,,"Burna Boyz:Spanners,Lootas:Spanners",
+Close combat weapon,Melee,1,5,2,0,1,,Gretchin:Gretchin,
+Close combat weapon,Melee,3,3,5,0,1,,"Nobz:Nobz,Wurrboy:Wurrboy",
+Gaze of Gork – glare,24,D6,5,5,0,1,,Big’ed Bossbunka:Big’ed Bossbunka,"Blast,Sustained Hits D3"
+Gaze of Gork – squint,18,1,5,12,-4,3,,Big’ed Bossbunka:Big’ed Bossbunka,Sustained Hits D3
+Twin supa-shoota,36,4,5,6,-1,1,,"Blitza-bommer:Blitza-bommer,Burna-bommer:Burna-bommer,Dakkajet:Dakkajet","Rapid fire 2,Sustained Hits 1,Twin-Linked"
+Twin supa-shoota,36,4,4,6,-1,1,,Wazbom Blastajet:Wazbom Blastajet,"Rapid fire 2,Sustained Hits 1,Twin-Linked"
+Armoured hull,Melee,3,4,6,0,1,,"Blitza-bommer:Blitza-bommer,Burna-bommer:Burna-bommer,Dakkajet:Dakkajet",
+Grotblasta,12,1,4,3,0,1,,"Boomdakka Snazzwagon:Boomdakka Snazzwagon,Gretchin:Gretchin,Kustom Boosta-blasta:Kustom Boosta-blasta",Pistol
+Mek speshul,24,12,5,5,-1,1,,Boomdakka Snazzwagon:Boomdakka Snazzwagon,"Assault,Rapid fire 4,Sustained Hits 1"
+Spiked wheels,Melee,4,4,7,-1,2,,"Boomdakka Snazzwagon:Boomdakka Snazzwagon,Kustom Boosta-blasta:Kustom Boosta-blasta",
+Spiked wheels,Melee,3,5,6,0,1,,Trukk:Trukk,
+Mork’s Teeth,Melee,6,2,6,-1,2,,Boss Snikrot:Boss Snikrot,"Precision,Twin-linked"
+Da Vulcha’s Klaws and Choppa,Melee,6,2,8,-2,2,,Boss Zagstruk:Boss Zagstruk,
+Rokkit launcha,24,D3,5,9,-2,3,,"Boyz:Boy,Burna Boyz:Spanners,Lootas:Spanners,Deff Dread:Deff Dread,Gorkanaut:Gorkanaut,Kommandos:Kommandos,Morkanaut:Morkanaut,Tankbustas:Tankbusta,Tankbustas:Boss Nob",Blast
+Rokkit launcha,24,D3,4,9,-2,3,,Killa Kans:Killa Kans,Blast
+Big choppa,Melee,3,3,7,-1,2,,"Boyz:Boss Nob,Nobz:Nobz,Boss Nob on Warbike:Boss Nob on Warbike",
+Big choppa,Melee,3,3,7,-1,2,,Kommandos:Boss Nob,
+Big choppa,Melee,5,3,7,-1,2,,Nob on Smasha Squig:Nob on Smasha Squig,"Anti-Monster 4+,Anti-Vehicle 4+"
+Big choppa,Melee,5,2,8,-1,2,,Warboss:Warboss,
+Burna,12,D6,,4,0,1,,"Burna Boyz:Burna Boyz,Kommandos:Kommandos","Ignores Cover,Torrent"
+Cuttin’ flames,Melee,2,4,4,-2,1,,Burna Boyz:Burna Boyz,
+Twin big shoota,18,3,5,5,0,1,,"Burna-bommer:Burna-bommer,Gorkanaut:Gorkanaut,Megatrakk Scrapjet:Megatrakk Scrapjet,Morkanaut:Morkanaut,Stompa:Stompa","Rapid fire 2,Twin-Linked"
+Skorcha missile rack,36,2D6,5,5,-1,1,,Burna-bommer:Burna-bommer,"Blast,Ignores Cover"
+Skorcha,12,D6,,5,-1,1,,"Deff Dread:Deff Dread,Gorkanaut:Gorkanaut,Killa Kans:Killa Kans,Stompa:Stompa","Ignores Cover,Torrent"
+Dread klaw,Melee,4,3,10,-2,3,,Deff Dread:Deff Dread,Dead Choppy
+Stompy feet,Melee,4,3,5,0,1,,Deff Dread:Deff Dread,
+Deffkilla boomstikks,12,6,5,5,0,1,,Deffkilla Wartrike:Deffkilla Wartrike,Assault
+Killajet – burna,12,D6,,5,-1,1,,Deffkilla Wartrike:Deffkilla Wartrike,"Ignores Cover,Torrent"
+Killajet – cutta,12,1,5,9,-4,D6,,Deffkilla Wartrike:Deffkilla Wartrike,Melta 2
+Snagga klaw,Melee,4,3,10,-2,2,,Deffkilla Wartrike:Deffkilla Wartrike,
+Kopta rokkits,24,D3,5,9,-2,3,,Deffkoptas:Deffkoptas,"Blast,Twin-Linked"
+Spinnin’ blades,Melee,6,3,5,0,1,,Deffkoptas:Deffkoptas,
+Snazzgun,24,3,5,6,-1,2,,"Flash Gitz:Flash Gitz,Kaptin:Kaptin","Heavy,Sustained Hits 1"
+Mork’s Roar,36,12,5,5,0,1,,Ghazghkull Thraka:Ghazghkull Thraka,Rapid fire 4
+Gork’s Klaw,Melee,6,2,14,-3,4,,Ghazghkull Thraka:Ghazghkull Thraka,
+Makari’s stabba,Melee,1,4,3,0,1,,Makari:Makari,Devastating wounds
+Deffstorm mega-shoota,36,20,5,6,-1,1,,Gorkanaut:Gorkanaut,Rapid fire 10
+Klaw of Gork – strike,Melee,5,3,18,-3,6,,Gorkanaut:Gorkanaut,
+Klaw of Gork – sweep,Melee,15,3,8,-1,2,,Gorkanaut:Gorkanaut,
+Grot-smacka,Melee,3,3,5,0,1,,Runtherd:Runtherd,
+'Eavy lobba,48,D6,5,6,0,2,,"Hunta Rig:Hunta Rig,Kill Rig:Kill Rig","Blast,Indirect fire"
+Stikka kannon,12,1,5,12,-2,3,,"Hunta Rig:Hunta Rig,Kill Rig:Kill Rig","Anti-Monster 2+,Anti-Vehicle 2+,Snagged"
+Butcha boyz,Melee,4,3,5,-1,1,,"Hunta Rig:Hunta Rig,Kill Rig:Kill Rig","Extra attacks,Anti-Monster 4+,Anti-Vehicle 4+"
+Savage horns and hooves,Melee,4,4,8,-1,3,,"Hunta Rig:Hunta Rig,Kill Rig:Kill Rig","Extra attacks,Lance"
+Saw blades,Melee,6,3,10,-1,2,,"Hunta Rig:Hunta Rig,Kill Rig:Kill Rig",
+Saw blades,Melee,4,4,7,-1,2,,"Rukkatrukk Squigbuggy:Rukkatrukk Squigbuggy,Shokkjump dragsta:Shokkjump dragsta",
+Da Rippa – standard,24,3,5,7,-2,2,,Kaptin Badrukk:Kaptin Badrukk,"Heavy,Sustained Hits 1"
+Da Rippa – supercharge,24,3,5,8,-3,3,,Kaptin Badrukk:Kaptin Badrukk,"Hazardous,Heavy,Sustained Hits 1"
+Wurrtower,24,D3,,12,-3,D6,,Kill Rig:Kill Rig,"Hazardous,Psychic,Torrent"
+Kan shoota,36,3,4,5,0,1,,Killa Kans:Killa Kans,"Devastating wounds,Rapid Fire 2"
+Grotzooka,18,D3+3,4,6,0,1,,Killa Kans:Killa Kans,Blast
+Kan klaw,Melee,3,4,8,-2,3,,Killa Kans:Killa Kans,
+Speshul Kommando shoota,18,4,5,4,0,1,,Kommandos:Kommandos,Rapid fire 2
+Breacha ram,Melee,2,4,9,-2,2,,Kommandos:Kommandos,
+Burna exhausts,6,2D6,,4,0,1,,Kustom Boosta-blasta:Kustom Boosta-blasta,"Ignores Cover,Torrent,Twin-Linked"
+Rivet kannon,36,6,5,8,-1,2,,Kustom Boosta-blasta:Kustom Boosta-blasta,"Assault,Rapid fire 3"
+Deffgun,48,2,6,8,-1,2,,Lootas:Lootas,"Heavy,Rapid Fire 1"
+'Urty syringe,Melee,1,3,2,0,1,,"Mad Dok Grotsnik,Painboy:Mad Dok Grotsnik,Painboy:Painboy","Anti-Infantry 4+,Extra Attacks,Precision"
+Twin killsaw,Melee,2,4,12,-3,2,,Meganobz:Meganobz,Twin-Linked
+Rokkit kannon,24,D6+1,5,9,-2,3,,Megatrakk Scrapjet:Megatrakk Scrapjet,Blast
+Wing missiles,24,1,5,9,-2,3,,Megatrakk Scrapjet:Megatrakk Scrapjet,
+Nose drill,Melee,4,4,8,-1,2,,Megatrakk Scrapjet:Megatrakk Scrapjet,
+Kustom mega-slugga,12,D3,5,8,-2,D6,,Mek:Mek,"Blast,Hazardous"
+Wrench,Melee,3,3,4,0,1,,Mek:Mek,
+Bubblechukka – big bubble,48,2D6,4,6,-1,1,,Mek gunz:Mek gunz,"Bubblechukka 1-2,Blast"
+Bubblechukka – wobbly bubble,48,D6,4,9,-2,3,,Mek gunz:Mek gunz,"Bubblechukka 3-4,Blast"
+Bubblechukka – dense bubble,48,D3,4,12,-3,D6+3,,Mek gunz:Mek gunz,"Bubblechukka 5-6,Blast"
+Kustom mega-kannon,36,D6,4,12,-2,D6,,Mek gunz:Mek gunz,"Blast,Hazardous"
+Smasha gun,48,D3,4,9,-3,3,,Mek gunz:Mek gunz,Blast
+Smasha gun,48,D3,4,9,-3,4,,Wazbom Blastajet:Wazbom Blastajet,Blast
+Traktorkannon,48,1,4,10,-2,D6+1,,Mek gunz:Mek gunz,"Anti-fly 2+,Devastating Wounds"
+Grotcrew,Melee,6,5,2,0,1,,Mek gunz:Mek gunz,
+Kustom mega-zappa,36,D6+3,5,10,-2,D6,,Morkanaut:Morkanaut,"Blast,Hazardous"
+Klaw of Mork – strike,Melee,4,3,18,-3,6,,Morkanaut:Morkanaut,
+Klaw of Mork – sweep,Melee,12,3,8,-1,2,,Morkanaut:Morkanaut,
+Big Chompa’s jaws,Melee,3,3,7,-2,4,,Mozrog Skragbad:Mozrog Skragbad,"Devastating wounds,Extra Attacks"
+Gutrippa,Melee,6,2,7,-1,3,,Mozrog Skragbad:Mozrog Skragbad,"Anti-Monster 4+,Anti-Vehicle 4+"
+Smasha squig jaws,Melee,2,4,6,-1,2,,Nob on Smasha Squig:Nob on Smasha Squig,Extra attacks
+Waaagh! Banner,Melee,3,3,8,-2,2,,Nob with Waaagh! Banner:Nob with Waaagh! Banner,
+Sawn-off shotgun,12,2,5,4,0,1,,Rukkatrukk Squigbuggy:Rukkatrukk Squigbuggy,Assault
+Squig launchas,36,D6+6,5,5,-1,2,,Rukkatrukk Squigbuggy:Rukkatrukk Squigbuggy,"Blast,Ignores Cover,Indirect Fire"
+Kustom shokk rifle,24,1,3,8,-2,D6+1,,Shokkjump dragsta:Shokkjump dragsta,"Devastating wounds,Hazardous,Precision"
+Rokkits,24,D3,5,9,-2,3,,Shokkjump dragsta:Shokkjump dragsta,Blast
+Saddlegit weapons,9,1,4,3,0,1,,Squighog boyz:Squighog boyz,Assault
+Stikka,12,1,5,5,-1,2,,Squighog boyz:Squighog boyz,"Assault,Anti-Monster 4+,Anti-Vehicle 4+"
+Squighog jaws and saddlegits,Melee,3,4,6,-1,2,,Squighog boyz:Squighog boyz,Extra attacks
+Stikka,Melee,3,3,5,-1,2,,Squighog boyz:Squighog boyz,"Anti-Monster 4+,Anti-Vehicle 4+,Lance"
+Deffkannon,72,3D6,5,14,-3,D6,,Stompa:Stompa,Blast
+Supa-gatler,24,20,5,7,-1,2,,Stompa:Stompa,Sustained Hits 1
+Supa-rokkits,100,D6,5,12,-3,D6+2,,Stompa:Stompa,Blast
+Mega-choppa – strike,Melee,6,3,24,-5,10,,Stompa:Stompa,
+Mega-choppa – sweep,Melee,18,3,10,-2,3,,Stompa:Stompa,
+Pair of rokkit pistols,12,1,5,7,-1,D3,,Tankbustas:Tankbusta,"Pistol,Twin-Linked"
+Tankhammer,Melee,2,3,7,-1,D3,,Tankbustas:Tankbusta,"Anti-Vehicle 4+,Devastating Wounds,Hazardous"
+Twin dakkagun,18,3,5,5,0,1,,"Warbikers:Warbiker,Warbikers:Boss Nob on Warbike","Rapid fire 2,Assault,Twin-Linked"
+Twin slugga,12,2,5,4,0,1,,Warboss:Warboss,"Pistol,Twin-Linked"
+Attack squig,Melee,2,4,4,0,1,,Warboss:Warboss,Extra attacks
+'Uge choppa,Melee,4,2,12,-2,2,,Warboss in Mega Armour:Warboss in Mega Armour,
+Twin wazbom mega-kannon,36,D3,4,12,-2,D6,,Wazbom Blastajet:Wazbom Blastajet,"Blast,Hazardous,Twin-Linked"
+Twin tellyport mega-blasta,24,3,5,9,-1,D6+1,,Wazbom Blastajet:Wazbom Blastajet,"Blast,Twin-Linked"
+'Eadbanger ,24,1,4,6,-3,1,,Weirdboy:Weirdboy,"Precision,Psychic"
+Weirdboy staff,Melee,3,3,8,-1,D3,,Weirdboy:Weirdboy,Psychic
+Eyez of Mork,18,D6,5,8,-3,2,,Wurrboy:Wurrboy,Psychic
+Da Grabzappa,Melee,5,2,7,-2,2,,Zodgrod Wortsnagga:Zodgrod Wortsnagga,
