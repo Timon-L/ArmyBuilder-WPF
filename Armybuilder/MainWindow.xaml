@@ -1,12 +1,44 @@
-﻿<Window x:Class="Armybuilder.MainWindow"
+﻿<Window x:Class="ArmyBuilder.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Armybuilder"
+        xmlns:controls="clr-namespace:ArmyBuilder.Controls"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Gork Craft" Height="450" Width="800">
+
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <!-- Header -->
+        <StackPanel Grid.ColumnSpan="2" Grid.Row="0" Orientation="Horizontal" Height="80">
+            <Image Source="Images/Logo.png" Width="80" Height="80" />
+            <TextBlock Text="GorkCraft" VerticalAlignment="Center" FontSize="30" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <ListView Grid.Column="0" Grid.Row="1" Width="250" ItemsSource="{Binding Path=Armies, Mode=OneWay}"
+                  SelectedItem="{Binding Path=SelectedArmy, Mode=TwoWay}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding FkFaction.FactionName, Mode=OneWay}" FontWeight="Bold"/>
+                        <TextBlock Text="{Binding ArmyName}"
+                         Margin="5 0 0 0"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <controls:ArmyControl
+            Grid.Column="1" Grid.Row="1"
+            Army="{Binding SelectedArmy, Mode=OneWay}"
+            />
 
     </Grid>
 </Window>

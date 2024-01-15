@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Armybuilder
+namespace ArmyBuilder
 {
     /// <summary>
     /// Interaction logic for App.xaml
