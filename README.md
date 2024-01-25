@@ -18,4 +18,4 @@ To use GorkCraft, launch the application and begin by selecting your preferred a
 - Entity Framework for efficient data management.
 - SQLite for local data storage, ensuring quick and secure access to army configurations.
 
-![App Interface Animation]([URL_of_GIF](https://github.com/Timon-L/ArmyBuilder-WPF/blob/main/Recording%20%231.gif)https://github.com/Timon-L/ArmyBuilder-WPF/blob/main/Recording%20%231.gif)
+![App Interface Animation](https://github.com/Timon-L/ArmyBuilder-WPF/blob/main/Recording%20%231.gif)
